@@ -1,4 +1,4 @@
-# HyperDroid - PC Launcher
+HyperDroid - PC Launcher
 Native desktop experience on your android device.
 
 ## Get
